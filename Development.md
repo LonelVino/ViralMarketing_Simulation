@@ -1,7 +1,5 @@
 # Model and Analysis for this viral campaign
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 **Base:** **Directed** **graph** of the Instagram network, blue nodes represent the users and the grey arcs represent the following links (from “followed” to “following”).
 
 **Objective**: ensure the success and the virality of this campaign, make it reach as many people as possible. 
